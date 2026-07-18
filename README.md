@@ -110,11 +110,6 @@ public:
 
 ---
 
-## 🎯 Philosophy
-
-> *"The best way to learn is to build something that scares you a little."*
-
----
 
 <div align="center">
 
