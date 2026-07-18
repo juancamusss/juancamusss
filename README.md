@@ -36,40 +36,102 @@ public:
 
 ## ⚡ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,python,php" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,cs,php" />
 </p>
 
-### Frontend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,threejs,vite" />
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,threejs" />
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<p align="center">
+  <img src="https://img.shields.io/badge/WebGL2-990000?style=for-the-badge&logo=webgl&logoColor=white" />
 </p>
 
-### Databases
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### DevOps & Cloud
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,cloudflare,git,github" />
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=blender,figma,vscode" />
+### 🤖 AI
+
+<p align="center">
+
+<a href="https://openai.com/chatgpt">
+<img height="48" src="https://cdn.simpleicons.org/openai/ffffff" alt="ChatGPT"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://openai.com/codex">
+<img height="48" src="https://cdn.simpleicons.org/openai/412991" alt="Codex"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://deepmind.google/technologies/gemini/">
+<img height="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.anthropic.com/claude">
+<img height="48" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://openrouter.ai">
+<img height="48" src="https://cdn.simpleicons.org/openrouter/8A2BE2" alt="OpenRouter"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://aws.amazon.com/bedrock/">
+<img height="48" src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS Bedrock"/>
+</a>
+
+</p>
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,linux,apache,cloudflare,postman,unity" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSH-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certbot-003A70?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,figma,vscode" />
 </p>
 
 ---
