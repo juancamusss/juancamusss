@@ -76,39 +76,12 @@ public:
 
 <p align="center">
 
-<a href="https://openai.com/chatgpt">
-<img height="48" src="https://cdn.simpleicons.org/openai/ffffff" alt="ChatGPT"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://openai.com/codex">
-<img height="48" src="https://cdn.simpleicons.org/openai/412991" alt="Codex"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://deepmind.google/technologies/gemini/">
-<img height="48" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Gemini"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.anthropic.com/claude">
-<img height="48" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://openrouter.ai">
-<img height="48" src="https://cdn.simpleicons.org/openrouter/8A2BE2" alt="OpenRouter"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/bedrock/">
-<img height="48" src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS Bedrock"/>
-</a>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenRouter-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </p>
 
@@ -121,9 +94,11 @@ public:
 </p>
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SSH-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Certbot-003A70?style=for-the-badge" />
+
 </p>
 
 ---
@@ -133,7 +108,6 @@ public:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender,figma,vscode" />
 </p>
-
 ---
 
 # 🧠 Current Focus
