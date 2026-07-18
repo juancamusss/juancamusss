@@ -90,7 +90,7 @@ public:
 ### ☁️ Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,linux,apache,cloudflare,postman,unity" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,apache,cloudflare,postman,unity" />
 </p>
 
 <p align="center">
